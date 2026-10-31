@@ -1,0 +1,6 @@
+*.pod5
+*.blow5
+gencode.v46.transcripts.fa
+minimap2-2.28_x64-linux/
+rna004_130bps_sup@v3.0.1/
+__pycache__/
